@@ -14,13 +14,6 @@ A full-stack **Task Assignment Management** web application built using **React.
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
 3. [Setup Instructions](#setup-instructions)
-4. [Folder Structure](#folder-structure)
-5. [Available Scripts](#available-scripts)
-6. [API Endpoints](#api-endpoints)
-7. [User Roles](#user-roles)
-8. [Responsive Design](#responsive-design)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Features
 

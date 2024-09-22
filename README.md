@@ -14,6 +14,7 @@ A full-stack **Task Assignment Management** web application built using **React.
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
 3. [Setup Instructions](#setup-instructions)
+4. [Deployment on Azure](#deployment-on-azure)
 
 ## Features
 
@@ -64,3 +65,12 @@ Make sure you have the following installed:
 3. **Run the development server::**
    ```bash
    npm run dev
+## Deployment on Azure
+
+This project has been deployed on Azure for scalability and reliability. The frontend is hosted using **Azure Static Web Apps**.
+
+### Steps to deploy on Azure
+
+1. **Azure Static Web Apps**: Deploy your React application using **Azure Static Web Apps service**. Use the build output from npm run build to deploy.
+
+2. **Continuous Deployment**: Set up GitHub Actions or Azure Pipelines for automated deployment..
